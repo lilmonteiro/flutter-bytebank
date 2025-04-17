@@ -1,4 +1,4 @@
-# bytebank
+# Bytebank - Alura Course
 
 A new Flutter project.
 
