@@ -1,5 +1,12 @@
 # Bytebank - Alura Course
 
+Two screen app to create a list of bank data.
+
+<img src="https://github.com/user-attachments/assets/18f9df71-574b-49bf-8a69-947a07a57503" height="650">
+
+<img src="https://github.com/user-attachments/assets/1a84761f-6cbb-47ff-9255-423f1908379c" height="650">
+
+
 A new Flutter project.
 
 ## Getting Started
